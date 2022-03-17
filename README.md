@@ -1,6 +1,7 @@
 # happy_holi
+![image](https://user-images.githubusercontent.com/73944456/158746313-a050d945-58a5-4da4-ab34-8883ba18b543.png)
 
-A new Flutter project.
+
 
 ## Getting Started
 
